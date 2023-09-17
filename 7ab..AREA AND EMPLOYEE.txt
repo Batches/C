@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar  9 05:40:37 2023
 
-@author: Prabodh C P
-"""
 
 import math
 
@@ -70,13 +64,7 @@ t1.showArea()
 
 
 
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar  9 12:09:50 2023
 
-@author: Prabodh C P
-"""
 
 class Employee:
     def __init__(self):
